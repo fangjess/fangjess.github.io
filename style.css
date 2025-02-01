@@ -41,7 +41,7 @@ body {
     width: 100vw;
     height: 100vh;
 }
-main {
+.name{
     transition: all 0.5s;
     -webkit-text-stroke: 4px #00303b;
     font-variation-settings: "wght" 900, "ital" 1;
@@ -55,8 +55,4 @@ main {
         25px 25px 0px #f40468,
         45px 45px 10px #00303b;
     cursor: pointer;
-}
-main:hover {
-    font-variation-settings: "wght" 100, "ital" 0;
-    text-shadow: none;
 }
