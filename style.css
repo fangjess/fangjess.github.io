@@ -15,7 +15,7 @@
     align-items: center;
     justify-content: center;
     gap: 50px;
-    color: #00303b;
+    color:#ff7777;
     background: linear-gradient(454deg, #f1f2da, #ffce96);
 }
 .slides img{
