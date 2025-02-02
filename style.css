@@ -44,7 +44,7 @@ body {
 .name{
     transition: all 0.5s;
     -webkit-text-stroke: 4px #00303b;
-    font-variation-settings: "wght" 900, "ital" 1;
+    font-variation-settings: "wght" 700, "ital" 1;
     font-size: 15rem;
     text-align: center;
     color: transparent;
