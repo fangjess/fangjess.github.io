@@ -127,15 +127,15 @@ body {
     display: flex;
     justify-content: space-evenly;
     margin: 0 auto;
-  }
+}
   
-  .card-wrapper {
+.card-wrapper {
     width: 400px;
     height: 500px;
     position: relative;
-  }
+}
   
-  .card {
+.card {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -163,16 +163,16 @@ body {
       opacity: 0.4;
       transition: .5s;
     }
-  }
+}
   
-  .card:hover .card-image {
+.card:hover .card-image {
     transform: translateY(-100px);
     transition: all .9s;
-  }
+}
   
   /**** Social Icons *****/
   
-  .social-icons {
+.social-icons {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -200,46 +200,46 @@ body {
         opacity: 0;
       } 
     }
-  }
+}
   
-  .card:hover .social-icons li a {
+.card:hover .social-icons li a {
     transform: translateY(0px);
     opacity: 1; 
-  }
+}
   
-  .social-icons li a:hover {
+.social-icons li a:hover {
     background: #000; 
     transition: .2s;
     .fab {
       color: #fff;
     } 
-  }
+}
   
-  .social-icons li a .fab {
+.social-icons li a .fab {
     transition: .8s;
       
     &:hover {
         transform: rotateY(360deg);
         color: #fff;
     } 
-  }
+}
   
-  .card:hover li:nth-child(1) a {
-      transition-delay: 0.1s;
-  }
-  .card:hover li:nth-child(2) a {
+.card:hover li:nth-child(1) a {
+    transition-delay: 0.1s;
+}
+.card:hover li:nth-child(2) a {
     transition-delay: 0.2s;
-  }
-  .card:hover li:nth-child(3) a {
+}
+.card:hover li:nth-child(3) a {
     transition-delay: 0.3s;
-  }
-  .card:hover li:nth-child(4) a {
+}
+.card:hover li:nth-child(4) a {
     transition-delay: 0.4s;
-  }
+}
   
   /**** Personal Details ****/
   
-  .details {
+.details {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -261,7 +261,7 @@ body {
           font-weight: 300;
       }
     }
-  }
+}
   
 .text_card {
   max-width: 300px;
