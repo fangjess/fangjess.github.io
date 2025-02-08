@@ -104,6 +104,8 @@ body {
     height: 100vh;
 }
 
+/* TITLE PAGE */
+
 .name {
     transition: all 0.5s;
     -webkit-text-stroke: 4px #00303b;
@@ -118,6 +120,23 @@ body {
         25px 25px 0px #f40468,
         45px 45px 10px #00303b;
     cursor: pointer;
+    z-index: 2;
+}
+
+.title_cloud1 {
+    position: absolute; 
+    bottom: 0;
+    left: 0; 
+    width: 150px;
+    height: auto;
+}
+
+.title_cloud2 {
+    position: absolute; 
+    top: 0;
+    right: 0; 
+    width: 150px;
+    height: auto;
 }
 
 /* ABOUT ME SECTION */
