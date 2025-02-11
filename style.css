@@ -347,6 +347,9 @@ body {
   z-index: 10;
 	border-radius: 30%;
   box-shadow: 8px 8px 8px 2px rgba(0, 0, 0, 0.23);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 i.fab {
@@ -375,8 +378,8 @@ i.fab {
   color: red;
 }
 
-.purple {
-  background: mediumpurple;
+.denim {
+  background: #1c399e;
   color: slategray;
 }
 
