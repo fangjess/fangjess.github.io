@@ -317,6 +317,17 @@ body {
 
 /* SKILLS SECTION */
 
+.skills {
+  text-align: center; /* Centers all content inside */
+  width: 100%; /* Ensures full width */
+}
+
+.skills h2 {
+  display: block; /* Ensures it behaves like a block */
+  text-align: center; /* Centers text */
+  margin-bottom: 20px; /* Adds space between header and badges */
+}
+
 /* Wrapper */
 .skills_wrapper {
   width: 90%;
