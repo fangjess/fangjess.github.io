@@ -210,10 +210,7 @@ body {
         height: 50px;
         line-height: 50px;
         text-align: center;
-        background: #fff;
-        font-size: 23px;
-        color: #333;
-        font-weight: bold;
+        background: #f1f2da;
         margin: 0 6px;
         transition: .4s;
         transform: translateY(200px);
@@ -221,27 +218,31 @@ body {
       } 
     }
 }
+
+.social-icons li a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hovericon {
+  width: 30px;  /* Adjust size as needed */
+  height: 30px; /* Ensure uniformity */
+}
   
+#insta {
+  width: 80px; /* Adjust this value as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .card:hover .social-icons li a {
     transform: translateY(0px);
     opacity: 1; 
 }
   
 .social-icons li a:hover {
-    background: #000; 
+    background: #ffce96; 
     transition: .2s;
-    .fab {
-      color: #fff;
-    } 
-}
-  
-.social-icons li a .fab {
-    transition: .8s;
-      
-    &:hover {
-        transform: rotateY(360deg);
-        color: #fff;
-    } 
 }
   
 .card:hover li:nth-child(1) a {
