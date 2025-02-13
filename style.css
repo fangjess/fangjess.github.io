@@ -383,13 +383,13 @@ i.fab {
   color: slategray;
 }
 
-.green {
-  background: yellowgreen;
+.baby {
+  background: #a2cffe;
   color: darkslategray;
 }
 
-.crimson {
-  background: crimson;
+.butter {
+  background: #ffc000;
   color: firebrick;
 }
 
@@ -398,14 +398,14 @@ i.fab {
   color: gold;
 }
 
-.pink {
-  background: hotpink;
+.green {
+  background: #1D6F42;
   color: palevioletred;
 }
 
-.rebecca {
-  background: rebeccapurple;
-  color: rebeccapurple;
+.bloodorange {
+  background: #db4437;
+  color: #db4437;
 }
 
 .gainsboro {
