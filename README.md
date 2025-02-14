@@ -8,7 +8,7 @@ I was able to practice my HTML/CSS skills, and in the future I hope to add furth
 
 # Website Elements
 
-**General Features and Stylization**
+## General Features and Stylization
 - Custom favicon/logo
 - Navbar linking to each page, links change colour upon hover
 - Contact button takes user to the 'Contact Jessica' form, colour changes on hover
@@ -16,10 +16,10 @@ I was able to practice my HTML/CSS skills, and in the future I hope to add furth
 - Animated clouds to make things pretty
   - Credit: [SketchyKathy](https://giphy.com/SketchyKathy) on GIPHY
 
-**Title Page**<br>
+## Title Page
 The title page features typography of my name stylized with CSS.
 
-**About Me Page**<br>
+## About Me Page
 The 'About Me' section contains a bio card with a brief self-introduction and a photo card that displays my name and social icon links on hover.<br>
 Socials provided:
 - GitHub
@@ -27,14 +27,14 @@ Socials provided:
 - Create Gmail draft to my email
 - Instagram
 
-**Skills Page**<br>
+## Skills Page
 The Skills page features 11 badges displaying my current skillset. Each badge has a coloured border, white panel and icon stylized with CSS.
 
-**Projects Page**<br>
+## Projects Page
 The Projects page contains 2 photo info cards displaying my projects with a brief description on hover.
 
-**Contact Page**<br>
+## Contact Page
 The contact page features a contact form created with HTML and CSS (from FreeFrontend, credit link is on the website below the contact form).
 
-# Tools/Framework Used
+## Tools/Framework Used
 HTML/CSS
