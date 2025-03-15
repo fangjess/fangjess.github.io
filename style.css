@@ -135,7 +135,7 @@ body {
 .title_cloud2 {
     position: absolute; 
     top: 0;
-    right: 0; 
+    right: 15px; 
     width: 150px;
     height: auto;
 }
